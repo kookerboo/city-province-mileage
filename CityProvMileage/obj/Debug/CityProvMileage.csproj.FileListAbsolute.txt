@@ -1,0 +1,7 @@
+\\cnd-fs-001\fr$\MIS\cbrockelbank\My Documents\Visual Studio 2017\Projects\CityProvMileage\CityProvMileage\obj\Debug\CityProvMileage.csprojResolveAssemblyReference.cache
+\\cnd-fs-001\fr$\MIS\cbrockelbank\My Documents\Visual Studio 2017\Projects\CityProvMileage\CityProvMileage\obj\Debug\CityProvMileage.csproj.CoreCompileInputs.cache
+\\cnd-fs-001\fr$\MIS\cbrockelbank\My Documents\Visual Studio 2017\Projects\CityProvMileage\CityProvMileage\bin\Debug\CityProvMileage.exe.config
+\\cnd-fs-001\fr$\MIS\cbrockelbank\My Documents\Visual Studio 2017\Projects\CityProvMileage\CityProvMileage\bin\Debug\CityProvMileage.exe
+\\cnd-fs-001\fr$\MIS\cbrockelbank\My Documents\Visual Studio 2017\Projects\CityProvMileage\CityProvMileage\bin\Debug\CityProvMileage.pdb
+\\cnd-fs-001\fr$\MIS\cbrockelbank\My Documents\Visual Studio 2017\Projects\CityProvMileage\CityProvMileage\obj\Debug\CityProvMileage.exe
+\\cnd-fs-001\fr$\MIS\cbrockelbank\My Documents\Visual Studio 2017\Projects\CityProvMileage\CityProvMileage\obj\Debug\CityProvMileage.pdb
