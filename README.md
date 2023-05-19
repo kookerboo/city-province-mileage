@@ -1,3 +1,3 @@
 # City Province Mileage
 
-This program inserts IVAN's mileage tables (MGCITA#, MGDIST) into RADSSupport mileage tables.  
+This program inserts Atlas's iSeries mileage tables (MGCITA#, MGDIST) into parent company's RADSSupport mileage tables.  
